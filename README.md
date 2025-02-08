@@ -35,3 +35,5 @@ Este projeto usa um *Raspberry Pi Pico* para exibir números de *0 a 9* em uma m
 1. *Compilar e carregar o código* no Raspberry Pi Pico.  
 2. *Pressionar os botões* para mudar o número na matriz.  
 3. *Observar o LED vermelho piscando* para indicar funcionamento.
+
+Video Explicativo: https://youtube.com/shorts/BqFW36AFgHE?feature=share
